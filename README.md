@@ -3,4 +3,4 @@
 
 Profile Cards es una pagina web que muestra un diseño de tarjetas de presentacion de forma creativa que puedes tomar como referencia para futuras creaciones.
 
-Puedes ver un demo de la pagina aqui: https://tarjeta-de-presentacion.vercel.app/
+Puedes ver un demo de la pagina aqui: https://nicodibarboure.github.io/Tarjetas-de-presentacion/
